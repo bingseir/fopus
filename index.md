@@ -44,5 +44,27 @@ Certain functions of the app require an active internet connection. bingseir can
 4. Updates & Termination
 We are committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services at any time. We may also stop providing the app entirely without prior notice. Upon termination, the rights and licenses granted to you in these terms will end.
 
+## Analytics and advertising
+
+Fopus uses Google Analytics for Firebase to understand how the app is used —
+for example, how many study sessions are started and completed. This service
+collects your device's advertising identifier, a Firebase installation
+identifier, and records of your interactions with the app. This information is
+shared with Google and may be used to measure and improve advertising for Fopus.
+
+Fopus does not display advertisements inside the app.
+
+You can reset your advertising identifier or opt out of ad personalisation at
+any time in your device settings, under Settings → Google → Ads.
+
+For users in the European Economic Area, the United Kingdom and Switzerland,
+analytics and advertising consent signals are disabled by default.
+
+## Where your data is stored
+
+Your account, study subjects and session history are stored using Supabase, a
+hosted database provider acting on our behalf. Data is transmitted over an
+encrypted connection.
+
 Contact Us
 If you have any questions, suggestions, or wish to exercise your data deletion rights, contact us at: bingseir@gmail.com
