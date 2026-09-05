@@ -1,37 +1,79 @@
-Terms & Conditions
-Effective Date: August 30, 2026
+Fopus Terms & Conditions
 
-By downloading or using the Fopus app, these terms will automatically apply to you. You should make sure that you read them carefully before using the app.
+Effective: 5 September 2026
 
-1. App Usage & Intellectual Property
-You are not allowed to copy, modify the app, any part of the app, or our trademarks in any way. You are not allowed to attempt to extract the source code of the app, translate the app into other languages, or make derivative versions. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, belong to bingseir.
+These terms govern your use of Fopus ("the app"), developed by bingseir. By downloading or using the app, you agree to them. If you do not agree, please do not use the app.
 
-2. Subscriptions & Freemium Features
-Fopus operates on a freemium model. While basic features may be free, certain premium features require an active subscription. All subscription transactions are handled securely through Google Play and our subscription infrastructure provider, RevenueCat.
+Using the app
 
-Billing: You will be billed through your Google Play account.
+Fopus is licensed to you for personal, non-commercial use. You may not copy, modify, distribute, sell or lease any part of the app, nor reverse-engineer or attempt to extract its source code, except where local law expressly permits it.
 
-Cancellations: You are responsible for managing and canceling your subscriptions directly through your Google Play account settings. Uninstalling the app will not automatically cancel your subscription.
+All intellectual property in the app — including its name, logo, design and content — remains the property of bingseir.
 
-3. User Accounts and Security
-To access certain features, you must register an account using an email and password. You are responsible for keeping your device and access to the app secure. We recommend that you do not jailbreak or root your phone, as it could compromise your device's security features and mean that the Fopus app will not work properly or securely.
+Your account
 
-4. Connectivity & Liability
-Certain functions of the app require an active internet connection. bingseir cannot take responsibility for the app not working at full functionality if you do not have access to Wi-Fi or cellular data.
+Fopus creates an anonymous account automatically on first launch so you can use the app immediately. This account exists only on your device: if you uninstall the app, clear its data or change phones, it cannot be recovered.
 
-If you are using the app outside of an area with Wi-Fi, you should remember that your terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app.
+You may secure your account by adding an email address and password. Doing so keeps your subjects and study history available if you reinstall or move to another device. You are responsible for keeping your password confidential.
 
-bingseir accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
+You may delete your account at any time from Settings → Delete account. Deletion is permanent and removes your subjects, sessions and settings.
 
-5. Updates & Termination
-We are committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services at any time. We will never charge you for the app or its services without making it very clear to you exactly what you are paying for.
+Purchases
 
-We may update the app at any time. You promise to always accept updates to the application when offered to you.
+Fopus operates on a freemium model. Core features are free. Some features require Fopus Premium, available as a subscription or as a one-time purchase.
 
-We may also stop providing the app entirely and may terminate use of it at any time without giving notice of termination to you. Upon any termination, the rights and licenses granted to you in these terms will end, and you must stop using the app.
+All transactions are handled by Google Play and by our purchase infrastructure provider, RevenueCat. Fopus never receives or stores your payment card details.
 
-6. Changes to These Terms and Conditions
-We may update our Terms and Conditions from time to time. You are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms and Conditions on this page.
+Subscriptions
 
-7. Contact Us
-If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at: bingseir@gmail.com
+Monthly and annual subscriptions renew automatically at the end of each billing period until cancelled. You are billed through your Google Play account.
+
+You can cancel at any time in your Google Play account settings. Cancelling stops future renewals; your access continues until the end of the period you have already paid for. Uninstalling the app does not cancel a subscription.
+
+Lifetime purchase
+
+The lifetime option is a single payment, not a subscription. It does not renew and there is nothing to cancel. It is tied to the Google account used to make the purchase and can be restored on any device signed in to that account using "Restore purchases" in the app.
+
+"Lifetime" means for as long as Fopus remains available. It does not create an obligation to operate the app indefinitely.
+
+Refunds
+
+Refunds are handled by Google Play under their refund policy. You can request one through your Google Play purchase history, or by contacting Google Play support.
+
+If you are a consumer in the European Union, you have a statutory right to withdraw from a purchase of digital content within 14 days. By starting to use a purchased feature immediately, you consent to immediate delivery and acknowledge that this right of withdrawal is lost once delivery has begun.
+
+Free and Premium features
+
+Free accounts can create up to 3 subjects. Fopus Premium raises this limit to 100 subjects and unlocks the statistics screen and extended calendar data.
+
+Existing subjects are never removed if a subscription lapses — the limit applies only to creating new ones.
+
+We may change which features are free and which require Premium. Such changes will not remove access to a subscription period or lifetime purchase you have already paid for.
+
+Connectivity and devices
+
+Some features require an internet connection to sync your data. You are responsible for your own connectivity, including any mobile data charges your network operator may apply. Fopus is not responsible for data loss or reduced functionality caused by a lack of connectivity.
+
+The app may not work correctly on devices that have been rooted or otherwise modified.
+
+Updates, changes and termination
+
+We may update the app from time to time, and may change or discontinue features. We may also stop providing the app entirely, with reasonable notice where practical.
+
+These terms may be updated. Continued use of the app after a change constitutes acceptance of the updated terms. Material changes will be reflected in the effective date above.
+
+Disclaimer and liability
+
+The app is provided "as is". While we work to keep it accurate and available, we do not guarantee that it will be uninterrupted, error-free, or that your data will never be lost — you are encouraged to secure your account so your data can be recovered.
+
+To the extent permitted by law, we are not liable for indirect or consequential loss arising from your use of the app. Nothing in these terms limits liability that cannot be limited by law, including your statutory rights as a consumer.
+
+Governing law
+
+These terms are governed by the laws of the Republic of Lithuania. If you are a consumer, this does not deprive you of the protection of mandatory consumer provisions of the country in which you live, and you may bring proceedings in the courts of that country.
+
+Contact
+
+Questions about these terms: bingseir@gmail.com
+
+Privacy Policy: https://bingseir.github.io/fopus/index.md
