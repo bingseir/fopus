@@ -1,70 +1,87 @@
-Privacy Policy
-Effective Date: August 30, 2026
+Fopus Privacy Policy
 
-bingseir built the Fopus app as a Freemium app. This SERVICE is provided by bingseir and is intended for use as is. This page informs visitors regarding our policies regarding the collection, use, and disclosure of Personal Information for anyone using our Service.
+Effective: 5 September 2026
 
-1. Information Collection and Use
-For a better experience while using our Service, we require you to provide us with certain personally identifiable information.
+Fopus ("the app") is developed by bingseir. This policy explains what the app collects, why, and what control you have over it.
 
-Account Registration: We collect your email address and password when you choose to create an account. This data is required to manage your account, authenticate your login, and maintain your subscription status.
+If you have any questions, contact bingseir@gmail.com.
 
-Permissions: Fopus does not request any special device permissions (such as Camera, Location, or Storage) to function.
+The short version
 
-2. Third-Party Services
-The app uses third-party services that may collect information used to process subscriptions or provide necessary infrastructure. The third-party service providers used by the app include:
+Fopus stores the subjects you create and the study sessions you record, so they survive across devices. It uses analytics to understand how the app is used and to measure advertising. It does not sell your personal data, and it does not ask for access to your camera, microphone, contacts or location.
 
-Google Play Services
+What the app collects
 
-RevenueCat (Used to process and manage in-app subscriptions and purchases safely. Fopus does not directly collect or store your payment card details).
+Account information. Fopus creates an anonymous account automatically the first time you open it, so you can use the app without signing up. If you choose to secure your account, you provide an email address and a password. Passwords are handled by our authentication provider and are never visible to us.
 
-3. California Privacy Rights (CCPA/CPRA)
-California residents have the right to request access to the personal data we have collected about you, request that we delete your personal data, and opt out of the sale or sharing of your personal data. We do not sell your personal data. To exercise these rights, please contact us at the email provided below.
+Your study data. The subjects you create — their names, colours and timer settings — and the study sessions you record, including their start time, end time and duration.
 
-4. Data Retention and Deletion
-We retain your email address and account information for as long as your account remains active. You can request the complete deletion of your account and all associated personal data at any time by contacting us at bingseir@gmail.com. Upon request, your data will be permanently removed from our active database.
+Device and usage data. Records of how you use the app, such as starting and completing a study session, together with your device's advertising identifier and an installation identifier used by our analytics provider.
 
-5. Children’s Privacy
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to take necessary actions.
+Purchase information. If you buy Fopus Premium, our purchase provider records that a purchase was made and which product it was. Fopus never receives or stores your payment card details.
 
-6. Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+Analytics and advertising
 
-Terms & Conditions
-By downloading or using Fopus, these terms will automatically apply to you. You should make sure that you read them carefully before using the app.
-
-1. App Usage & Intellectual Property
-You are not allowed to copy, modify the app, any part of the app, or our trademarks in any way. You are not allowed to attempt to extract the source code of the app, translate the app into other languages, or make derivative versions. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, belong to bingseir.
-
-2. Subscriptions & Freemium Features
-Fopus operates on a freemium model. Certain premium features require an active subscription. All subscription transactions are handled securely through Google Play and our subscription provider, RevenueCat. You are responsible for managing your subscriptions and cancellations through your Google Play account settings.
-
-3. Connectivity & Liability
-Certain functions of the app require an active internet connection. bingseir cannot take responsibility for the app not working at full functionality if you do not have access to Wi-Fi or cellular data. You are responsible for any mobile network data charges incurred while using the app.
-
-4. Updates & Termination
-We are committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services at any time. We may also stop providing the app entirely without prior notice. Upon termination, the rights and licenses granted to you in these terms will end.
-
-## Analytics and advertising
-
-Fopus uses Google Analytics for Firebase to understand how the app is used —
-for example, how many study sessions are started and completed. This service
-collects your device's advertising identifier, a Firebase installation
-identifier, and records of your interactions with the app. This information is
-shared with Google and may be used to measure and improve advertising for Fopus.
+Fopus uses Google Analytics for Firebase to understand how the app is used — for example, how many study sessions are started and completed — and to measure the performance of advertising for Fopus. This service collects your device's advertising identifier, an installation identifier, and records of your interactions with the app. This information is shared with Google and may be used to measure and improve advertising for Fopus.
 
 Fopus does not display advertisements inside the app.
 
-You can reset your advertising identifier or opt out of ad personalisation at
-any time in your device settings, under Settings → Google → Ads.
+You can reset your advertising identifier, or opt out of ad personalisation entirely, at any time in your device settings under Settings → Google → Ads.
 
-For users in the European Economic Area, the United Kingdom and Switzerland,
-analytics and advertising consent signals are disabled by default.
+For users in the European Economic Area, the United Kingdom and Switzerland, analytics and advertising consent signals are disabled by default.
 
-## Where your data is stored
+Third-party services
 
-Your account, study subjects and session history are stored using Supabase, a
-hosted database provider acting on our behalf. Data is transmitted over an
-encrypted connection.
+The app relies on the following providers, each of which may process some of the data described above on our behalf:
 
-Contact Us
-If you have any questions, suggestions, or wish to exercise your data deletion rights, contact us at: bingseir@gmail.com
+Google Play Services — app distribution, billing and core device services.
+
+Google Analytics for Firebase — usage analytics and advertising measurement. Collects your device's advertising identifier.
+
+Supabase — database and authentication. Stores your account, subjects and study history on our behalf.
+
+RevenueCat — processes and manages in-app subscriptions and purchases safely. Fopus does not directly collect or store your payment card details.
+
+Resend — delivers account emails, such as confirmation and password reset messages. Receives your email address for that purpose only.
+
+Some of these providers operate servers outside your country, including in the United States. Where data is transferred out of the European Economic Area, it is done under the safeguards those providers have in place.
+
+How long data is kept
+
+Your account and study data are kept for as long as your account exists. If you delete your account, they are removed permanently.
+
+Anonymous, aggregated usage statistics that cannot be linked back to you may be retained after deletion.
+
+Purchase records are retained by Google Play and RevenueCat as required by law and tax regulations, and are not removed when you delete your Fopus account.
+
+Deleting your data
+
+You can delete your account and everything associated with it at any time:
+
+In the app — Settings → Delete account. Your account, subjects, sessions and settings are removed immediately.
+
+By email — if you have uninstalled the app, email bingseir@gmail.com with the subject "Delete my Fopus account", from the address registered to your account. Requests are processed within 30 days.
+
+Full details: https://bingseir.github.io/fopus/delete-account.md
+
+You can also delete individual subjects and sessions inside the app without deleting your account.
+
+Your rights
+
+Depending on where you live, you may have the right to access the personal data we hold about you, to correct it, to have it deleted, and to object to certain processing. To exercise any of these, email bingseir@gmail.com.
+
+If you are a California resident, you may request access to or deletion of your personal data. We do not sell your personal data.
+
+Children's privacy
+
+These services do not address anyone under the age of 13, and Fopus does not knowingly collect personal information from children under 13. If you believe a child has provided us with personal information, contact us and we will delete it.
+
+Changes to this policy
+
+This policy may be updated from time to time. Changes are published on this page, and the effective date above is updated accordingly.
+
+Contact
+
+Questions about this policy or your data: bingseir@gmail.com
+
+Terms & Conditions: https://bingseir.github.io/fopus/terms.md
